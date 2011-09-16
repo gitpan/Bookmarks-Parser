@@ -9,7 +9,6 @@ lib/Bookmarks/Parser.pm
 lib/Bookmarks/XML.pm
 Makefile.PL
 MANIFEST			This list of files
-META.yml
 t/01general.t
 t/03podcoverage.t
 t/04a9.t
@@ -19,4 +18,7 @@ t/06opera.t
 t/07delicious.t
 t/bookmarks.html
 t/mozbookmarks.html
+t/opera-1150-unix.adr
+t/opera-1150.adr
 t/opera6.adr
+META.yml                                 Module meta-data (added by MakeMaker)
