@@ -25,4 +25,5 @@ t/rt18238.html
 t/rt18238.t
 t/rt18894.t
 t/rt18894.xml
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
